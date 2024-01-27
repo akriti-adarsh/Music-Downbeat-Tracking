@@ -1,0 +1,2 @@
+Beat F Measure: 0.5261
+Downbeat F Measure: 0.3796

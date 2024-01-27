@@ -1,0 +1,2 @@
+Test Beat F-Measure: 0.5449
+Test Downbeat F-Measure: 0.4626
